@@ -16,6 +16,6 @@
 	git push
 	git branch -a --list *any keyword of the branch*
 	git status
-	git config --global user.email "vivekjavadvlpr@gmail.com"
-	git config --global user.name "vivekthecool"
+	git config --global user.email "your_email"
+	git config --global user.name "username"
 	git restore --staged <file>...            -------- to unstage
