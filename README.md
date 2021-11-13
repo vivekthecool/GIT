@@ -5,16 +5,16 @@
         git clone -c core.longpaths=true <repo-url>
 		
 2. Git commands:
-    git fetch
-    git pull
-    git checkout <branch_name>
-    git checkout <file_name>      ----- to replace from the origin
-    git add file_name...
-    git rm file_name
-    git commit -m "commit message"
-    git push
-    git branch -a --list *any keyword of the branch*
-    git status
-    git config --global user.email "your_email"
-    git config --global user.name "username"
-    git restore --staged <file>...            -------- to unstage
+    1. git fetch
+    2. git pull
+    3. git checkout <branch_name>
+    4. git checkout <file_name>      ----- to replace from the origin
+    5. git add file_name...
+    6. git rm file_name
+    7. git commit -m "commit message"
+    8. git push
+    9. git branch -a --list *any keyword of the branch*
+    10. git status
+    11. git config --global user.email "your_email"
+    12. git config --global user.name "username"
+    13. git restore --staged <file>...            -------- to unstage
