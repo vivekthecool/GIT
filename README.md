@@ -1,11 +1,11 @@
-If getting Long file path Error while cloning
+1. If getting Long file path Error while cloning
 	Fix in System level once:
 		Open Git Bash as Administrator and run below line- 
 			git config --system core.longpaths=true
 	Fix for current Git Clone:
 		git clone -c core.longpaths=true <repo-url>
 		
-Git commands:
+2. Git commands:
 	git fetch
 	git pull
 	git checkout <branch_name>
