@@ -18,3 +18,4 @@
 	git status
 	git config --global user.email "vivekjavadvlpr@gmail.com"
 	git config --global user.name "vivekthecool"
+	git restore --staged <file>...            -------- to unstage
